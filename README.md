@@ -1,10 +1,5 @@
 # serpapi
 
-以下に `README.md` を作成しました。  
-この `README.md` には、2つの Python スクリプト (`main.py` と `search.py`) の役割や使用方法が記載されています。  
-
----
-
 ### 📘 **HRMOS 求人一覧 スクレイピング & URL管理スクリプト**
 
 このプロジェクトでは、HRMOS の求人一覧ページ (`https://hrmos.co/pages/*/jobs`) を SerpApi を使用して Google 検索し、求人ページの URL を収集・管理します。  
